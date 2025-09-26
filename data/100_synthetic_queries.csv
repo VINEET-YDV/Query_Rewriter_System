@@ -1,0 +1,101 @@
+user_id,context,current_query,ground_truth_rewrite
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",best shoes,best running shoes in Delhi
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",how to improve stamina,how to improve stamina for running
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",local parks,local parks for running in Delhi
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",morning workout routines,morning running workout routines
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",5k training plan,5k running training plan for beginners
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",best protein supplements,best protein supplements for runners
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",nutrition advice,nutrition advice for runners
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",marathon training schedule,marathon running training schedule Delhi
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",local running clubs,local running clubs in Delhi
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",how to prevent injuries,how to prevent running injuries
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",post-run stretches,best post-run stretches for runners
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",new phone deals,new Apple iPhone deals electronics
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",laptop reviews,Apple MacBook reviews
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",customer service number,Apple electronics customer service number
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",return policy,Apple electronics return policy
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",watch accessories,Apple Watch accessories
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",wireless earbuds,Apple AirPods wireless earbuds
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",new macbook release date,new Apple MacBook release date
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",iphone camera tips,Apple iPhone camera tips
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",icloud storage options,Apple iCloud storage options
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",trade-in value for old phone,Apple trade-in value for old iPhone
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",best apps for ipad,best productivity apps for Apple iPad
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",easy dinner recipes,easy vegetarian Indian dinner recipes
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",how to make paneer,how to make vegetarian paneer for Indian cooking
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",where to buy spices,where to buy authentic Indian spices
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",kitchen gadgets,best kitchen gadgets for Indian cooking
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",lentil soup recipe,vegetarian Indian lentil soup (dal) recipe
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",festival sweets,vegetarian Indian festival sweets recipes
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",how to make naan bread,how to make vegetarian naan bread for Indian meals
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",spicy potato recipe,spicy vegetarian Indian potato recipe
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",quick lunch ideas,quick vegetarian Indian lunch ideas
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",what is garam masala,what is garam masala in Indian cooking
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",healthy breakfast,healthy vegetarian Indian breakfast recipes
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",what is a neural network,what is a neural network in machine learning
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",how to implement a CNN,how to implement a CNN in PyTorch
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",best online courses,best online courses for PyTorch machine learning
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",dataset for image classification,image classification dataset for machine learning
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",getting started guide,PyTorch getting started guide for machine learning
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",what are transformers,what are transformer models in machine learning
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",overfitting vs underfitting,overfitting vs underfitting in machine learning
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",loss functions explained,loss functions explained for PyTorch
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",what is a GAN,what is a GAN in machine learning
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",PyTorch vs TensorFlow,PyTorch vs TensorFlow for machine learning research
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",how to use tensorboard,how to use tensorboard with PyTorch
+805,"{""niche"": ""travel blogging"", ""focus"": ""Southeast Asia""}",visa requirements,Thailand visa requirements for Indian citizens
+805,"{""niche"": ""travel blogging"", ""focus"": ""Southeast Asia""}",best street food,best street food in Bangkok
+805,"{""niche"": ""travel blogging"", ""focus"": ""Southeast Asia""}",budget hotels,budget hotels in Vietnam
+805,"{""niche"": ""travel blogging"", ""focus"": ""Southeast Asia""}",backpacking itinerary,backpacking itinerary for Southeast Asia
+805,"{""niche"": ""travel blogging"", ""focus"": ""Southeast Asia""}",what to pack,what to pack for Bali trip
+805,"{""niche"": ""travel blogging"", ""focus"": ""Southeast Asia""}",how to start a blog,how to start a travel blog
+805,"{""niche"": ""travel blogging"", ""focus"": ""Southeast Asia""}",cheap flights to malaysia,cheap flights from India to Malaysia
+805,"{""niche"": ""travel blogging"", ""focus"": ""Southeast Asia""}",cultural etiquette,cultural etiquette in Southeast Asia
+805,"{""niche"": ""travel blogging"", ""focus"": ""Southeast Asia""}",best time to visit Cambodia,best time to visit Cambodia from India
+805,"{""niche"": ""travel blogging"", ""focus"": ""Southeast Asia""}",sim card for tourists,best sim card for tourists in Southeast Asia
+805,"{""niche"": ""travel blogging"", ""focus"": ""Southeast Asia""}",is singapore expensive,is singapore expensive for tourists
+906,"{""platform"": ""PC"", ""genre"": ""strategy games""}",new game releases,new PC strategy game releases 2025
+906,"{""platform"": ""PC"", ""genre"": ""strategy games""}",best gaming build,best gaming PC build for strategy games
+906,"{""platform"": ""PC"", ""genre"": ""strategy games""}",how to get better,how to get better at Age of Empires IV
+906,"{""platform"": ""PC"", ""genre"": ""strategy games""}",steam sale dates,Steam summer sale 2025 dates
+906,"{""platform"": ""PC"", ""genre"": ""strategy games""}",reviews for new game,reviews for Frostpunk 2 on PC
+906,"{""platform"": ""PC"", ""genre"": ""strategy games""}",esports tournaments,strategy game esports tournaments schedule
+906,"{""platform"": ""PC"", ""genre"": ""strategy games""}",best gaming mouse,best gaming mouse for strategy games
+906,"{""platform"": ""PC"", ""genre"": ""strategy games""}",what is a good GPU,what is a good GPU for PC gaming
+906,"{""platform"": ""PC"", ""genre"": ""strategy games""}",co-op games to play,co-op PC strategy games to play
+906,"{""platform"": ""PC"", ""genre"": ""strategy games""}",discord servers for gamers,Discord servers for strategy gamers
+906,"{""platform"": ""PC"", ""genre"": ""strategy games""}",how to reduce lag,how to reduce lag in PC online games
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",best shoes,best running shoes in Delhi
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",how to improve stamina,how to improve stamina for running
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",local parks,local parks for running in Delhi
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",morning workout routines,morning running workout routines
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",5k training plan,5k running training plan for beginners
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",best protein supplements,best protein supplements for runners
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",nutrition advice,nutrition advice for runners
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",marathon training schedule,marathon running training schedule Delhi
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",local running clubs,local running clubs in Delhi
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",how to prevent injuries,how to prevent running injuries
+401,"{""interest"": ""running"", ""location"": ""Delhi""}",post-run stretches,best post-run stretches for runners
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",new phone deals,new Apple iPhone deals electronics
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",laptop reviews,Apple MacBook reviews
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",customer service number,Apple electronics customer service number
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",return policy,Apple electronics return policy
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",watch accessories,Apple Watch accessories
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",wireless earbuds,Apple AirPods wireless earbuds
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",new macbook release date,new Apple MacBook release date
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",iphone camera tips,Apple iPhone camera tips
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",icloud storage options,Apple iCloud storage options
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",trade-in value for old phone,Apple trade-in value for old iPhone
+502,"{""brand_preference"": ""Apple"", ""category"": ""electronics""}",best apps for ipad,best productivity apps for Apple iPad
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",easy dinner recipes,easy vegetarian Indian dinner recipes
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",how to make paneer,how to make vegetarian paneer for Indian cooking
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",where to buy spices,where to buy authentic Indian spices
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",kitchen gadgets,best kitchen gadgets for Indian cooking
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",lentil soup recipe,vegetarian Indian lentil soup (dal) recipe
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",festival sweets,vegetarian Indian festival sweets recipes
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",how to make naan bread,how to make vegetarian naan bread for Indian meals
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",spicy potato recipe,spicy vegetarian Indian potato recipe
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",quick lunch ideas,quick vegetarian Indian lunch ideas
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",what is garam masala,what is garam masala in Indian cooking
+603,"{""cuisine"": ""Indian"", ""diet"": ""vegetarian""}",healthy breakfast,healthy vegetarian Indian breakfast recipes
+704,"{""field"": ""machine learning"", ""library"": ""PyTorch""}",what is a neural network,what is a neural network in machine learning

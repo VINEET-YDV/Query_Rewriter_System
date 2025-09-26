@@ -1,0 +1,5 @@
+pandas
+bert-score
+torch
+transformers
+streamlit
